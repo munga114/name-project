@@ -18,4 +18,4 @@ Only technology used in creating this appliction is html, css and javascript
 If you run into problems while using this application please do not hesitate andd contact me and I will respond promptly. You are also free to contriute towards this application.
 # license
 This project is licensed by [MIT license] (LICENSE) and its rights are resevered to the author
-Copyright (c) 2021 **Mungai Mbugua**
+Copyright (c) 2022 **Mungai Mbugua**
